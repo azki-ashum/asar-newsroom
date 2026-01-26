@@ -1,0 +1,30 @@
+RewriteEngine on
+
+# Redirect Trailing Slashes If Not A Folder...
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_URI} (.+)/$
+RewriteRule ^ %1 [L,R=301]
+
+RewriteCond %{REQUEST_URI} !^public
+
+RewriteRule ^(.*)$ public/$1 [L]
+
+<Files .htaccess>
+order allow,deny
+deny from all
+</Files>
+
+<Files composer.json>
+order allow,deny
+deny from all
+</Files>
+
+<Files composer.lock>
+  order allow,deny
+  deny from all
+  </Files>
+
+<Files .env>
+order allow,deny
+deny from all
+</Files>

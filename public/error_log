@@ -1,0 +1,38 @@
+[15-May-2023 00:02:57 UTC] PHP Fatal error:  Cannot declare class Botble\AuditLog\Providers\EventServiceProvider, because the name is already in use in /home/asaf7358/public_html/newsroom/platform/plugins/donasi/src/Providers/EventServiceProvider.php on line 17
+[15-May-2023 07:06:01 Asia/Jakarta] PHP Fatal error:  Cannot declare class Botble\AuditLog\Listeners\LoginListener, because the name is already in use in /home/asaf7358/public_html/newsroom/platform/plugins/donasi/src/Listeners/LoginListener.php on line 10
+[15-May-2023 07:06:03 Asia/Jakarta] PHP Fatal error:  Cannot declare class Botble\AuditLog\Listeners\LoginListener, because the name is already in use in /home/asaf7358/public_html/newsroom/platform/plugins/donasi/src/Listeners/LoginListener.php on line 10
+[15-May-2023 07:12:43 Asia/Jakarta] PHP Fatal error:  Cannot declare class Botble\Donasi\Listeners\AuditHandlerListener, because the name is already in use in /home/asaf7358/public_html/newsroom/platform/plugins/donasi/src/Listeners/DonasiHandlerListener.php on line 10
+[15-May-2023 07:12:53 Asia/Jakarta] PHP Fatal error:  Cannot declare class Botble\Donasi\Listeners\AuditHandlerListener, because the name is already in use in /home/asaf7358/public_html/newsroom/platform/plugins/donasi/src/Listeners/DonasiHandlerListener.php on line 10
+[30-May-2023 08:01:10 UTC] PHP Warning:  POST Content-Length of 13555625 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[30-May-2023 08:01:17 UTC] PHP Warning:  POST Content-Length of 10788263 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[30-May-2023 08:01:22 UTC] PHP Warning:  POST Content-Length of 12100139 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[10-Jun-2023 02:51:58 UTC] PHP Warning:  POST Content-Length of 10544405 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[24-Jul-2023 04:51:59 UTC] PHP Warning:  POST Content-Length of 12180580 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[24-Jul-2023 04:52:28 UTC] PHP Warning:  POST Content-Length of 12180580 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[11-Sep-2023 04:06:24 UTC] PHP Warning:  POST Content-Length of 13339333 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[14-Sep-2023 03:35:34 UTC] PHP Warning:  POST Content-Length of 16550203 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[15-Sep-2023 04:08:30 UTC] PHP Warning:  POST Content-Length of 12878143 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[21-Sep-2023 02:37:08 UTC] PHP Warning:  POST Content-Length of 10596324 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[09-Oct-2023 06:33:39 UTC] PHP Warning:  POST Content-Length of 11618897 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[10-Oct-2023 16:06:02 UTC] PHP Warning:  POST Content-Length of 22582556 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[10-Oct-2023 16:06:18 UTC] PHP Warning:  POST Content-Length of 12658076 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[10-Oct-2023 16:06:26 UTC] PHP Warning:  POST Content-Length of 10501488 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[10-Oct-2023 16:06:32 UTC] PHP Warning:  POST Content-Length of 11708791 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[18-Oct-2023 07:59:52 UTC] PHP Warning:  POST Content-Length of 19802220 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[18-Oct-2023 08:00:07 UTC] PHP Warning:  POST Content-Length of 29258966 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[10-Nov-2023 13:55:53 Asia/Jakarta] PHP Warning:  POST Content-Length of 20569090 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[15-Nov-2023 09:04:36 Asia/Jakarta] PHP Warning:  POST Content-Length of 11690003 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[15-Nov-2023 09:04:49 Asia/Jakarta] PHP Warning:  POST Content-Length of 23499498 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[15-Nov-2023 09:04:55 Asia/Jakarta] PHP Warning:  POST Content-Length of 11474919 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[13-Dec-2023 15:50:27 Asia/Jakarta] PHP Warning:  POST Content-Length of 12972171 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[13-Dec-2023 16:41:23 Asia/Jakarta] PHP Warning:  POST Content-Length of 22763535 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[09-Jan-2024 09:46:02 Asia/Jakarta] PHP Warning:  POST Content-Length of 12328244 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[09-Jan-2024 09:46:20 Asia/Jakarta] PHP Warning:  POST Content-Length of 12106792 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[28-Jan-2024 13:58:39 Asia/Jakarta] PHP Warning:  POST Content-Length of 10554171 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[06-May-2024 16:42:49 Asia/Jakarta] PHP Warning:  POST Content-Length of 38293400 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[07-Sep-2024 08:58:24 Asia/Jakarta] PHP Warning:  POST Content-Length of 11436653 bytes exceeds the limit of 10485760 bytes in Unknown on line 0
+[06-Nov-2024 21:34:58 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.28. in /home/asaf7358/public_html/newsroom/vendor/composer/platform_check.php on line 24
+[06-Nov-2024 21:40:14 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.28. in /home/asaf7358/public_html/newsroom/vendor/composer/platform_check.php on line 24
+[06-Nov-2024 21:40:16 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.28. in /home/asaf7358/public_html/newsroom/vendor/composer/platform_check.php on line 24
+[06-Nov-2024 21:40:17 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.28. in /home/asaf7358/public_html/newsroom/vendor/composer/platform_check.php on line 24
+[06-Nov-2024 21:40:18 Asia/Jakarta] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.2.0". You are running 8.1.28. in /home/asaf7358/public_html/newsroom/vendor/composer/platform_check.php on line 24

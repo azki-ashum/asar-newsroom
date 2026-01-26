@@ -1,0 +1,10 @@
+{
+    "id": "botble/mitra",
+    "name": "Mitra",
+    "namespace": "Botble\\Mitra\\",
+    "provider": "Botble\\Mitra\\Providers\\MitraServiceProvider",
+    "author": "Ishak Komarudin",
+    "url": "ishary.com",
+    "version": "1.0",
+    "description": "CMS Untuk Manage Mitra Dan Ksatria Asar Humanity"
+}
