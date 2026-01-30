@@ -19,6 +19,8 @@ class Gallery extends BaseModel
         'order',
         'image',
         'status',
+        'url_1',
+        'caption_url_1',
     ];
 
     protected $casts = [

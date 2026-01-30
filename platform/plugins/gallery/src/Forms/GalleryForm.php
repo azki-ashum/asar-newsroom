@@ -36,6 +36,19 @@ class GalleryForm extends FormAbstract
             )
             ->add('status', SelectField::class, StatusFieldOption::make())
             ->add('image', MediaImageField::class, MediaImageFieldOption::make())
+            ->add('url_1', TextField::class, [
+                'label' => 'URL',
+                'attr' => [
+                    'placeholder' => 'https://example.com',
+                ],
+                'help' => 'URL untuk redirect ketika gallery diklik di home banner',
+            ])
+            // ->add('caption_url_1', TextField::class, [
+            //     'label' => 'Caption URL 1',
+            //     'attr' => [
+            //         'placeholder' => 'Caption untuk URL',
+            //     ],
+            // ])
             ->setBreakFieldPoint('status');
     }
 }

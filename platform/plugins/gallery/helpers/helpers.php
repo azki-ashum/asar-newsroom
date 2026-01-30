@@ -42,6 +42,8 @@ if (! function_exists('get_galleries')) {
                 'user_id',
                 'image',
                 'created_at',
+                'url_1',
+                'caption_url_1',
             ])
             ->when($condition, fn ($query) => $query->where($condition))
             ->oldest('order')->latest()

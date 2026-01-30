@@ -19,6 +19,8 @@ class GalleryRequest extends Request
             'status' => [Rule::in(BaseStatusEnum::values())],
             'is_featured' => [new OnOffRule()],
             'image' => ['nullable', 'string', new MediaImageRule()],
+            'url_1' => ['nullable', 'string', 'max:255', 'url'],
+            'caption_url_1' => ['nullable', 'string', 'max:255'],
         ];
     }
 }
